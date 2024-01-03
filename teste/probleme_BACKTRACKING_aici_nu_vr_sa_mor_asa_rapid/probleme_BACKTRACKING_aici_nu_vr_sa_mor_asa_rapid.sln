@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "probleme_BACKTRACKING_aici_nu_vr_sa_mor_asa_rapid", "probleme_BACKTRACKING_aici_nu_vr_sa_mor_asa_rapid.pyproj", "{86A5634E-AD8E-4974-9998-425651820088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A5634E-AD8E-4974-9998-425651820088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A5634E-AD8E-4974-9998-425651820088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCDD0AB0-9FE1-41DB-9244-57A78BE00C10}
+	EndGlobalSection
+EndGlobal

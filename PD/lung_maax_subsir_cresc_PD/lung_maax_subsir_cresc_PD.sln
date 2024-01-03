@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lung_maax_subsir_cresc_PD", "lung_maax_subsir_cresc_PD.pyproj", "{4135B742-F087-4EF7-B160-8A7FCBE24B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4135B742-F087-4EF7-B160-8A7FCBE24B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4135B742-F087-4EF7-B160-8A7FCBE24B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C3B2F56-E7D6-4065-95FC-71AE3CBE9799}
+	EndGlobalSection
+EndGlobal

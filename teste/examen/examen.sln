@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "examen", "examen.pyproj", "{34F0D5F9-3D43-4500-99A6-2CCF75DCFA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F0D5F9-3D43-4500-99A6-2CCF75DCFA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F0D5F9-3D43-4500-99A6-2CCF75DCFA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8435562C-CCC2-43A6-A7AB-4144F903D0F1}
+	EndGlobalSection
+EndGlobal

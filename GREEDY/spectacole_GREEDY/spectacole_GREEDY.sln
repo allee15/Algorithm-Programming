@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "spectacole_GREEDY", "spectacole_GREEDY.pyproj", "{9134F260-FD99-48E6-B027-02C9043E6CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9134F260-FD99-48E6-B027-02C9043E6CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9134F260-FD99-48E6-B027-02C9043E6CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F406A4-B348-4CE4-A9DE-86D0F4868DDC}
+	EndGlobalSection
+EndGlobal
